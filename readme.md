@@ -3,7 +3,7 @@
 ### Index
 
 - [Characters](#Characters).
-- [Portrait](#Portrait).
+- [Portraits](#Portraits).
 - [Music](#Music).
 - [Lore](#Lore).
 - [Film](#Film).
@@ -11,7 +11,7 @@
 ### Characters
 - Redoon
 
-### Portrait
+### Portraits
 
 ##### Redoon
 
