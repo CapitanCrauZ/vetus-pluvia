@@ -11,10 +11,11 @@
 ### Characters
 - Redoon
 
-![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Redoon.png)
-
 ### Portrait
-- Redoon
+
+##### Redoon
+
+![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Redoon.png)
 
 ### Music
 Pending...
