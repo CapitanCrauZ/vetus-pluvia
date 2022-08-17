@@ -11,7 +11,7 @@
 ### Characters
 - Redoon
 
-![Image text](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Redoon.png = 250x250)
+![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Redoon.png)
 
 ### Portrait
 - Redoon
