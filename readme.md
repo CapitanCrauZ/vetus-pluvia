@@ -18,7 +18,8 @@
 ![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Redoon.png)
 
 ### Music
-Pending...
+- Wings Broken By Drops
+- Sad Puddles
 
 ### Lore
 Pending...
