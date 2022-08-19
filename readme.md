@@ -11,6 +11,7 @@
 ### Characters
 - Redoon
 - Ferros
+- Sivis
 
 ### Portraits
 
@@ -21,6 +22,9 @@
 ##### Ferros
 
 ![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Ferros.png)
+
+##### Sivis
+Pending
 
 ### Music
 - Wings Broken By Drops
