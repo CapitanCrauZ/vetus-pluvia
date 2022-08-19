@@ -14,6 +14,7 @@
 - Sivis
 
 ### Portraits
+<img src="https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Redoon.png" width="100" height="100">
 
 ##### Redoon
 
