@@ -10,12 +10,17 @@
 
 ### Characters
 - Redoon
+- Ferros
 
 ### Portraits
 
 ##### Redoon
 
 ![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Redoon.png)
+
+##### Redoon
+
+![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Ferros.png)
 
 ### Music
 - Wings Broken By Drops
