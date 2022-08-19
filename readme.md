@@ -24,7 +24,8 @@
 ![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Ferros.png)
 
 ##### Sivis
-Pending...
+
+![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Sivis.png)
 
 ### Music
 - Wings Broken By Drops
