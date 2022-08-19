@@ -31,7 +31,7 @@
 
 <!-- ![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Sivis.png) -->
 
-<img src="https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Sivis.png" width="560" height="460">
+<img src="https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Sivis.png" width="560" height="515">
 
 ### Music
 - Wings Broken By Drops
