@@ -18,7 +18,7 @@
 
 ![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Redoon.png)
 
-##### Redoon
+##### Ferros
 
 ![Image](https://github.com/CapitanCrauZ/Vetus-Pluvia/blob/master/Characters/Portrait/Ferros.png)
 
